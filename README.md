@@ -12,6 +12,7 @@ Data Cleaning:
 
 String Columns with Percentages: Columns that contain percentage signs (%) are cleaned by removing the % symbol and converting the values into numeric (float) format.
 Numeric Formatting: Commas (if present) are removed from numeric strings before conversion.
+
 Handle Missing Data:
 
 Numeric Columns: Missing values in numeric columns are replaced with the column mean.
